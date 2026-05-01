@@ -90,6 +90,28 @@ const aditya = {
 > ⚡ *This section auto-updates whenever I push a new repo to GitHub!*
 
 <!-- PROJECTS:START -->
+<div align="center">
+
+| 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
+|-----------|---------------|----------|------------|
+| 💻 [**MASTER-NODE.JS**](https://github.com/Aditya-kumar2004/MASTER-NODE.JS) · [🔗 Live](https://master-node-js-backend.vercel.app) | A premium, full-stack syllabus and progress tracking platform to master Advan... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Apr 2026` |
+| 💻 [**Alpha-Podcast-Platform**](https://github.com/Aditya-kumar2004/Alpha-Podcast-Platform) · [🔗 Live](https://alpha-podcast-platform.vercel.app)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Apr 2026` |
+| 💻 [**RAG**](https://github.com/Aditya-kumar2004/RAG) | A premium local RAG application enabling users to query PDFs, Word docs, and ... | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | `Apr 2026` |
+| 💻 [**Omni_Pharmacy**](https://github.com/Aditya-kumar2004/Omni_Pharmacy) | Enterprise pharmacy management platform featuring multi-store POS, real-time ... | `–` | `Apr 2026` |
+| 💻 [**Telegram_Bot**](https://github.com/Aditya-kumar2004/Telegram_Bot) · [🔗 Live](https://telegram-bot-plum-beta.vercel.app) | An intelligent Telegram Bot powered by Node.js and Google Gemini 2.5 AI. It a... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
+| 💻 [**Fit_Bharat_gym**](https://github.com/Aditya-kumar2004/Fit_Bharat_gym) · [🔗 Live](https://fit-bharat-gym.vercel.app) | A premium full-stack fitness ecosystem for Fit Bharat Gym. Built with React (... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
+| 💻 [**Food-Campus-Delivery-App**](https://github.com/Aditya-kumar2004/Food-Campus-Delivery-App) · [🔗 Live](https://food-campus-delivery-app.vercel.app) | A premium, full-stack food delivery ecosystem tailored for university campuse... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
+| 💻 [**Abhigya-Heart-Care**](https://github.com/Aditya-kumar2004/Abhigya-Heart-Care) · [🔗 Live](https://abhigya-heart-care.vercel.app)<br/>`⭐ 1` | Enterprise-grade healthcare web platform for a super speciality heart hospita... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
+| 💻 [**Feel-The-Burn-Unisex-Gym**](https://github.com/Aditya-kumar2004/Feel-The-Burn-Unisex-Gym) · [🔗 Live](https://feel-the-burn-unisex-gym.vercel.app)<br/>`⭐ 1` | A modern, responsive fitness website built with React, Vite, and Tailwind CSS... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
+| 💻 [**ValueFy**](https://github.com/Aditya-kumar2004/ValueFy) | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
+| 💻 [**Artifex-Web**](https://github.com/Aditya-kumar2004/Artifex-Web)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jan 2026` |
+| 💻 [**currency-exchange-rate-bot**](https://github.com/Aditya-kumar2004/currency-exchange-rate-bot)<br/>`⭐ 1` | No description provided. | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jan 2026` |
+| 💻 [**NK-Sah-rental-house**](https://github.com/Aditya-kumar2004/NK-Sah-rental-house) · [🔗 Live](https://nk-sah-rental-house.vercel.app)<br/>`⭐ 1` | A full-fledged rental house website built for NK Sah Rental House with a luxu... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jan 2026` |
+| 💻 [**Real-Estate-website**](https://github.com/Aditya-kumar2004/Real-Estate-website) | I developed this website using HTML and C++. | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Dec 2023` |
+
+</div>
+
+> 🤖 *Auto-generated on 01 May 2026 at 14:53 UTC · 14 public repos*
 <!-- PROJECTS:END -->
 
 ---
