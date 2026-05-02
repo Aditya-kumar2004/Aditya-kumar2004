@@ -107,11 +107,10 @@ const aditya = {
 | 💻 [**Artifex-Web**](https://github.com/Aditya-kumar2004/Artifex-Web)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jan 2026` |
 | 💻 [**currency-exchange-rate-bot**](https://github.com/Aditya-kumar2004/currency-exchange-rate-bot)<br/>`⭐ 1` | No description provided. | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jan 2026` |
 | 💻 [**NK-Sah-rental-house**](https://github.com/Aditya-kumar2004/NK-Sah-rental-house) · [🔗 Live](https://nk-sah-rental-house.vercel.app)<br/>`⭐ 1` | A full-fledged rental house website built for NK Sah Rental House with a luxu... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jan 2026` |
-| 💻 [**Real-Estate-website**](https://github.com/Aditya-kumar2004/Real-Estate-website) | I developed this website using HTML and C++. | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Dec 2023` |
 
 </div>
 
-> 🤖 *Auto-generated on 01 May 2026 at 14:58 UTC · 14 public repos*
+> 🤖 *Auto-generated on 02 May 2026 at 03:56 UTC · 13 public repos*
 <!-- PROJECTS:END -->
 
 ---
