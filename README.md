@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**ZoomX2**](https://github.com/Aditya-kumar2004/ZoomX2) · [🔗 Live](https://zoom-x2.vercel.app) | ZoomX2 is a full-stack Zoom Clone video conferencing platform built with Next... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `May 2026` |
 | 💻 [**ZoomX**](https://github.com/Aditya-kumar2004/ZoomX) · [🔗 Live](https://zoom-x-five.vercel.app) | A ZoomX fullstack web application built with Next.js, Django REST Framework, ... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `May 2026` |
 | 💻 [**12318504**](https://github.com/Aditya-kumar2004/12318504) | "Full Stack Notification System Assessment - Includes logging middleware, bac... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `May 2026` |
 | 💻 [**MASTER-NODE.JS**](https://github.com/Aditya-kumar2004/MASTER-NODE.JS) · [🔗 Live](https://master-node-js-backend.vercel.app) | A premium, full-stack syllabus and progress tracking platform to master Advan... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Apr 2026` |
@@ -112,7 +113,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 23 May 2026 at 04:12 UTC · 15 public repos*
+> 🤖 *Auto-generated on 24 May 2026 at 04:45 UTC · 16 public repos*
 <!-- PROJECTS:END -->
 
 ---
