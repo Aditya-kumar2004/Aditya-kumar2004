@@ -94,7 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
-| 💻 [**ExpenseAPP**](https://github.com/Aditya-kumar2004/ExpenseAPP) | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jun 2026` |
+| 💻 [**ExpenseAPP**](https://github.com/Aditya-kumar2004/ExpenseAPP)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**BookVault-Node.js**](https://github.com/Aditya-kumar2004/BookVault-Node.js) · [🔗 Live](https://bookvalultbackend.vercel.app) | A modern, responsive book platform built using MERN (MongoDB, Express, React,... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jun 2026` |
 | 💻 [**BookVault**](https://github.com/Aditya-kumar2004/BookVault) · [🔗 Live](https://book-vault-black.vercel.app) | A modern, high-performance digital bookstore and catalog manager built on a d... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `May 2026` |
 | 💻 [**ZoomX2**](https://github.com/Aditya-kumar2004/ZoomX2) · [🔗 Live](https://zoom-x2.vercel.app) | ZoomX2 is a full-stack Zoom Clone video conferencing platform built with Next... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `May 2026` |
@@ -116,7 +116,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 03 July 2026 at 04:14 UTC · 19 public repos*
+> 🤖 *Auto-generated on 04 July 2026 at 04:07 UTC · 19 public repos*
 <!-- PROJECTS:END -->
 
 ---
