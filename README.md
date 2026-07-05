@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**ledger-ai-investment-agent**](https://github.com/Aditya-kumar2004/ledger-ai-investment-agent) | AI-powered investment research agent — type a company name, get a full INVEST... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**ExpenseAPP**](https://github.com/Aditya-kumar2004/ExpenseAPP)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**BookVault-Node.js**](https://github.com/Aditya-kumar2004/BookVault-Node.js) · [🔗 Live](https://bookvalultbackend.vercel.app) | A modern, responsive book platform built using MERN (MongoDB, Express, React,... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jun 2026` |
 | 💻 [**BookVault**](https://github.com/Aditya-kumar2004/BookVault) · [🔗 Live](https://book-vault-black.vercel.app) | A modern, high-performance digital bookstore and catalog manager built on a d... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `May 2026` |
@@ -116,7 +117,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 04 July 2026 at 04:07 UTC · 19 public repos*
+> 🤖 *Auto-generated on 05 July 2026 at 04:36 UTC · 20 public repos*
 <!-- PROJECTS:END -->
 
 ---
