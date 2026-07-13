@@ -94,9 +94,9 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
-| 💻 [**ai-investment-research-agent**](https://github.com/Aditya-kumar2004/ai-investment-research-agent) · [🔗 Live](https://ai-investment-research-agent-umber.vercel.app) |  Vortex AI is a full-stack, institutional-grade AI investment research termin... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
+| 💻 [**ai-investment-research-agent**](https://github.com/Aditya-kumar2004/ai-investment-research-agent) · [🔗 Live](https://ai-investment-research-agent-umber.vercel.app)<br/>`⭐ 1` |  Vortex AI is a full-stack, institutional-grade AI investment research termin... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
+| 💻 [**BookVault-Node.js**](https://github.com/Aditya-kumar2004/BookVault-Node.js) · [🔗 Live](https://bookvalultbackend.vercel.app)<br/>`⭐ 1` | A modern, responsive book platform built using MERN (MongoDB, Express, React,... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**ExpenseAPP**](https://github.com/Aditya-kumar2004/ExpenseAPP)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
-| 💻 [**BookVault-Node.js**](https://github.com/Aditya-kumar2004/BookVault-Node.js) · [🔗 Live](https://bookvalultbackend.vercel.app) | A modern, responsive book platform built using MERN (MongoDB, Express, React,... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jun 2026` |
 | 💻 [**BookVault**](https://github.com/Aditya-kumar2004/BookVault) · [🔗 Live](https://book-vault-black.vercel.app) | A modern, high-performance digital bookstore and catalog manager built on a d... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `May 2026` |
 | 💻 [**ZoomX2**](https://github.com/Aditya-kumar2004/ZoomX2) · [🔗 Live](https://zoom-x2.vercel.app) | ZoomX2 is a full-stack Zoom Clone video conferencing platform built with Next... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `May 2026` |
 | 💻 [**ZoomX**](https://github.com/Aditya-kumar2004/ZoomX) · [🔗 Live](https://zoom-x-five.vercel.app) | A ZoomX fullstack web application built with Next.js, Django REST Framework, ... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `May 2026` |
@@ -117,7 +117,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 12 July 2026 at 04:04 UTC · 20 public repos*
+> 🤖 *Auto-generated on 13 July 2026 at 04:06 UTC · 20 public repos*
 <!-- PROJECTS:END -->
 
 ---
