@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**Flask-Development**](https://github.com/Aditya-kumar2004/Flask-Development) | Employee Management System built using Flask and SQLAlchemy. Features CRUD op... | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jul 2026` |
 | 💻 [**ai-investment-research-agent**](https://github.com/Aditya-kumar2004/ai-investment-research-agent) · [🔗 Live](https://ai-investment-research-agent-umber.vercel.app)<br/>`⭐ 1` |  Vortex AI is a full-stack, institutional-grade AI investment research termin... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**BookVault-Node.js**](https://github.com/Aditya-kumar2004/BookVault-Node.js) · [🔗 Live](https://bookvalultbackend.vercel.app)<br/>`⭐ 1` | A modern, responsive book platform built using MERN (MongoDB, Express, React,... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**ExpenseAPP**](https://github.com/Aditya-kumar2004/ExpenseAPP)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
@@ -117,7 +118,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 18 July 2026 at 03:39 UTC · 20 public repos*
+> 🤖 *Auto-generated on 19 July 2026 at 04:01 UTC · 21 public repos*
 <!-- PROJECTS:END -->
 
 ---
