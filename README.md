@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**React_development_revision**](https://github.com/Aditya-kumar2004/React_development_revision) | Repository dedicated to mastering React.js — featuring component architecture... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**fastAPI_development**](https://github.com/Aditya-kumar2004/fastAPI_development) | A FastAPI development project demonstrating REST APIs, CRUD operations, authe... | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | `Jul 2026` |
 | 💻 [**Flask-Development**](https://github.com/Aditya-kumar2004/Flask-Development) | Employee Management System built using Flask and SQLAlchemy. Features CRUD op... | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jul 2026` |
 | 💻 [**ai-investment-research-agent**](https://github.com/Aditya-kumar2004/ai-investment-research-agent) · [🔗 Live](https://ai-investment-research-agent-umber.vercel.app)<br/>`⭐ 1` |  Vortex AI is a full-stack, institutional-grade AI investment research termin... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
@@ -119,7 +120,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 23 July 2026 at 03:51 UTC · 22 public repos*
+> 🤖 *Auto-generated on 24 July 2026 at 03:50 UTC · 23 public repos*
 <!-- PROJECTS:END -->
 
 ---
