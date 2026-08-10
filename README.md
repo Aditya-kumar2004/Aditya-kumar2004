@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**FundsRoom-Operations-Portal**](https://github.com/Aditya-kumar2004/FundsRoom-Operations-Portal) · [🔗 Live](https://funds-room-operations-portal.vercel.app) | Full-Stack Mini ERP & CRM system built with React, Node.js, Express, TypeScri... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Aug 2026` |
 | 💻 [**Flask-Development**](https://github.com/Aditya-kumar2004/Flask-Development) | Employee Management System built using Flask and SQLAlchemy. Features CRUD op... | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jul 2026` |
 | 💻 [**React_development_revision**](https://github.com/Aditya-kumar2004/React_development_revision) | Repository dedicated to mastering React.js — featuring component architecture... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
 | 💻 [**fastAPI_development**](https://github.com/Aditya-kumar2004/fastAPI_development) | A FastAPI development project demonstrating REST APIs, CRUD operations, authe... | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | `Jul 2026` |
@@ -120,7 +121,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 09 August 2026 at 02:32 UTC · 23 public repos*
+> 🤖 *Auto-generated on 10 August 2026 at 02:38 UTC · 24 public repos*
 <!-- PROJECTS:END -->
 
 ---
