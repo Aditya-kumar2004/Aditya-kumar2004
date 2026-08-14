@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**scaler-ai-form-builder**](https://github.com/Aditya-kumar2004/scaler-ai-form-builder) | Full-stack form builder application built with Django REST Framework and Next... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `Aug 2026` |
 | 💻 [**FundsRoom-Operations-Portal**](https://github.com/Aditya-kumar2004/FundsRoom-Operations-Portal) · [🔗 Live](https://funds-room-operations-portal.vercel.app) | Full-Stack Mini ERP & CRM system built with React, Node.js, Express, TypeScri... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Aug 2026` |
 | 💻 [**Flask-Development**](https://github.com/Aditya-kumar2004/Flask-Development) | Employee Management System built using Flask and SQLAlchemy. Features CRUD op... | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jul 2026` |
 | 💻 [**React_development_revision**](https://github.com/Aditya-kumar2004/React_development_revision) | Repository dedicated to mastering React.js — featuring component architecture... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jul 2026` |
@@ -121,7 +122,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 13 August 2026 at 03:03 UTC · 24 public repos*
+> 🤖 *Auto-generated on 14 August 2026 at 03:03 UTC · 25 public repos*
 <!-- PROJECTS:END -->
 
 ---
