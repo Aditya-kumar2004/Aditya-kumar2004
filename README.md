@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**Acdyon_Technologies**](https://github.com/Aditya-kumar2004/Acdyon_Technologies) · [🔗 Live](https://acdyon-technologies-alpha.vercel.app) | FlowPilot — Modern AI-powered project management & workflow automation platfo... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Aug 2026` |
 | 💻 [**scaler-ai-form-builder**](https://github.com/Aditya-kumar2004/scaler-ai-form-builder) · [🔗 Live](https://scaler-ai-form-builder.vercel.app) | Full-stack form builder application built with Django REST Framework and Next... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `Aug 2026` |
 | 💻 [**FundsRoom-Operations-Portal**](https://github.com/Aditya-kumar2004/FundsRoom-Operations-Portal) · [🔗 Live](https://funds-room-operations-portal.vercel.app) | Full-Stack Mini ERP & CRM system built with React, Node.js, Express, TypeScri... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Aug 2026` |
 | 💻 [**Flask-Development**](https://github.com/Aditya-kumar2004/Flask-Development) | Employee Management System built using Flask and SQLAlchemy. Features CRUD op... | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jul 2026` |
@@ -122,7 +123,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 19 August 2026 at 01:56 UTC · 25 public repos*
+> 🤖 *Auto-generated on 20 August 2026 at 01:56 UTC · 26 public repos*
 <!-- PROJECTS:END -->
 
 ---
