@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**ShopSphereq**](https://github.com/Aditya-kumar2004/ShopSphereq) | A full-stack multi-vendor e-commerce and delivery platform built with React N... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**Fair-Share**](https://github.com/Aditya-kumar2004/Fair-Share) | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**Acdyon_Technologies**](https://github.com/Aditya-kumar2004/Acdyon_Technologies) · [🔗 Live](https://acdyon-technologies-alpha.vercel.app) | FlowPilot — Modern AI-powered project management & workflow automation platfo... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Aug 2026` |
 | 💻 [**scaler-ai-form-builder**](https://github.com/Aditya-kumar2004/scaler-ai-form-builder) · [🔗 Live](https://scaler-ai-form-builder.vercel.app) | Full-stack form builder application built with Django REST Framework and Next... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `Aug 2026` |
@@ -124,7 +125,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 12 September 2026 at 04:45 UTC · 27 public repos*
+> 🤖 *Auto-generated on 13 September 2026 at 05:00 UTC · 28 public repos*
 <!-- PROJECTS:END -->
 
 ---
