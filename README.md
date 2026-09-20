@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**react-pagination-app**](https://github.com/Aditya-kumar2004/react-pagination-app) | A modern, responsive client-side pagination component built with React 19, Vi... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**ShopSphereq**](https://github.com/Aditya-kumar2004/ShopSphereq) | A full-stack multi-vendor e-commerce and delivery platform built with React N... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**Fair-Share**](https://github.com/Aditya-kumar2004/Fair-Share) | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**Acdyon_Technologies**](https://github.com/Aditya-kumar2004/Acdyon_Technologies) · [🔗 Live](https://acdyon-technologies-alpha.vercel.app) | FlowPilot — Modern AI-powered project management & workflow automation platfo... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Aug 2026` |
@@ -125,7 +126,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 19 September 2026 at 04:46 UTC · 28 public repos*
+> 🤖 *Auto-generated on 20 September 2026 at 05:03 UTC · 29 public repos*
 <!-- PROJECTS:END -->
 
 ---
