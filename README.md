@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**Filtering**](https://github.com/Aditya-kumar2004/Filtering) | A clean and responsive React application demonstrating real-time client-side ... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**react-pagination-app**](https://github.com/Aditya-kumar2004/react-pagination-app) | A modern, responsive client-side pagination component built with React 19, Vi... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**ShopSphereq**](https://github.com/Aditya-kumar2004/ShopSphereq) | A full-stack multi-vendor e-commerce and delivery platform built with React N... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**Fair-Share**](https://github.com/Aditya-kumar2004/Fair-Share) | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
@@ -126,7 +127,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 20 September 2026 at 05:03 UTC · 29 public repos*
+> 🤖 *Auto-generated on 21 September 2026 at 05:09 UTC · 30 public repos*
 <!-- PROJECTS:END -->
 
 ---
