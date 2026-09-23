@@ -94,6 +94,8 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**JWT_IMPLEMENTATION_Express.js**](https://github.com/Aditya-kumar2004/JWT_IMPLEMENTATION_Express.js) | 🔐 Simple and secure JWT (JSON Web Token) authentication implementation using ... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
+| 💻 [**JWT_IMPLEMENTATION**](https://github.com/Aditya-kumar2004/JWT_IMPLEMENTATION) | A full-stack JWT authentication system built with React, Node.js, Express, Mo... | ![TypeScript](https://img.shields.io/badge/TypeScript-2b7489?style=flat-square&logo=typescript&logoColor=white) | `Sep 2026` |
 | 💻 [**Filtering**](https://github.com/Aditya-kumar2004/Filtering) | A clean and responsive React application demonstrating real-time client-side ... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**react-pagination-app**](https://github.com/Aditya-kumar2004/react-pagination-app) | A modern, responsive client-side pagination component built with React 19, Vi... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**ShopSphereq**](https://github.com/Aditya-kumar2004/ShopSphereq) | A full-stack multi-vendor e-commerce and delivery platform built with React N... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
@@ -127,7 +129,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 22 September 2026 at 05:10 UTC · 30 public repos*
+> 🤖 *Auto-generated on 23 September 2026 at 04:55 UTC · 32 public repos*
 <!-- PROJECTS:END -->
 
 ---
