@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**Folder-Structure**](https://github.com/Aditya-kumar2004/Folder-Structure) | A React.js and Vite-based folder explorer featuring recursive rendering, expa... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Oct 2026` |
 | 💻 [**Mile**](https://github.com/Aditya-kumar2004/Mile) | No description provided. | ![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white) | `Oct 2026` |
 | 💻 [**EntitleOS-Multi-Tenant-SaaS-Access-Entitlement-Engine**](https://github.com/Aditya-kumar2004/EntitleOS-Multi-Tenant-SaaS-Access-Entitlement-Engine) · [🔗 Live](https://frontend-five-jet-80.vercel.app) | EntitleOS is a multi-tenant SaaS authorization system that controls what user... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
 | 💻 [**REACT_ROUTER_DOM**](https://github.com/Aditya-kumar2004/REACT_ROUTER_DOM) | React Router implementation demonstrating modern routing patterns: layout nav... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Sep 2026` |
@@ -132,7 +133,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 24 October 2026 at 04:49 UTC · 35 public repos*
+> 🤖 *Auto-generated on 25 October 2026 at 04:58 UTC · 36 public repos*
 <!-- PROJECTS:END -->
 
 ---
