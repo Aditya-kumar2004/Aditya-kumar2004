@@ -94,6 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
+| 💻 [**NK-Sah-rental-house**](https://github.com/Aditya-kumar2004/NK-Sah-rental-house) · [🔗 Live](https://nk-sah-rental-house.vercel.app)<br/>`⭐ 1` | A full-fledged rental house website built for NK Sah Rental House with a luxu... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Nov 2026` |
 | 💻 [**Mile**](https://github.com/Aditya-kumar2004/Mile) | Mile | ![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white) | `Oct 2026` |
 | 💻 [**WEB_DEVELOPMENT**](https://github.com/Aditya-kumar2004/WEB_DEVELOPMENT) | Practise | ![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white) | `Oct 2026` |
 | 💻 [**Folder-Structure**](https://github.com/Aditya-kumar2004/Folder-Structure) | A React.js and Vite-based folder explorer featuring recursive rendering, expa... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Oct 2026` |
@@ -130,11 +131,10 @@ const aditya = {
 | 💻 [**ValueFy**](https://github.com/Aditya-kumar2004/ValueFy) | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Mar 2026` |
 | 💻 [**Artifex-Web**](https://github.com/Aditya-kumar2004/Artifex-Web)<br/>`⭐ 1` | No description provided. | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jan 2026` |
 | 💻 [**currency-exchange-rate-bot**](https://github.com/Aditya-kumar2004/currency-exchange-rate-bot)<br/>`⭐ 1` | No description provided. | ![HTML](https://img.shields.io/badge/HTML-e34c26?style=flat-square&logo=html&logoColor=white) | `Jan 2026` |
-| 💻 [**NK-Sah-rental-house**](https://github.com/Aditya-kumar2004/NK-Sah-rental-house) · [🔗 Live](https://nk-sah-rental-house.vercel.app)<br/>`⭐ 1` | A full-fledged rental house website built for NK Sah Rental House with a luxu... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Jan 2026` |
 
 </div>
 
-> 🤖 *Auto-generated on 10 November 2026 at 07:31 UTC · 37 public repos*
+> 🤖 *Auto-generated on 11 November 2026 at 06:49 UTC · 37 public repos*
 <!-- PROJECTS:END -->
 
 ---
