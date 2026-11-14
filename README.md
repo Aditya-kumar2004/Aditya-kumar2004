@@ -94,7 +94,7 @@ const aditya = {
 
 | 🗂️ Project | 📝 Description | 🛠️ Stack | 📅 Updated |
 |-----------|---------------|----------|------------|
-| 💻 [**lumiere-luxury-cinemas**](https://github.com/Aditya-kumar2004/lumiere-luxury-cinemas) | LUMIÈRE — Modern luxury cinema & movie ticket booking platform built with Rea... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Nov 2026` |
+| 💻 [**lumiere-luxury-cinemas**](https://github.com/Aditya-kumar2004/lumiere-luxury-cinemas) · [🔗 Live](https://lumiere-luxury-cinemas.vercel.app) | LUMIÈRE — Modern luxury cinema & movie ticket booking platform built with Rea... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Nov 2026` |
 | 💻 [**NK-Sah-rental-house**](https://github.com/Aditya-kumar2004/NK-Sah-rental-house) · [🔗 Live](https://nk-sah-rental-house.vercel.app)<br/>`⭐ 1` | A full-fledged rental house website built for NK Sah Rental House with a luxu... | ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=flat-square&logo=js&logoColor=white) | `Nov 2026` |
 | 💻 [**Mile**](https://github.com/Aditya-kumar2004/Mile) | Mile | ![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white) | `Oct 2026` |
 | 💻 [**WEB_DEVELOPMENT**](https://github.com/Aditya-kumar2004/WEB_DEVELOPMENT) | Practise | ![CSS](https://img.shields.io/badge/CSS-563d7c?style=flat-square&logo=css&logoColor=white) | `Oct 2026` |
@@ -135,7 +135,7 @@ const aditya = {
 
 </div>
 
-> 🤖 *Auto-generated on 13 November 2026 at 06:58 UTC · 38 public repos*
+> 🤖 *Auto-generated on 14 November 2026 at 06:46 UTC · 38 public repos*
 <!-- PROJECTS:END -->
 
 ---
